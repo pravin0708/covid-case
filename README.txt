@@ -1,2 +1,2 @@
-install covid libraries first 
+install covid library first 
 pip install covid
